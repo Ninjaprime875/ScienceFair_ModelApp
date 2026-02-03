@@ -43,6 +43,19 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e4daa2fb-1b06-4ce7-8c7e-d8bd757cafb2"
+      }
+    },
+    "owner": "ninjaprime",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e4daa2fb-1b06-4ce7-8c7e-d8bd757cafb2"
     }
   }
 }
